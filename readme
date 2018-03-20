@@ -1,9 +1,6 @@
 商品秒杀模块1.0 <br>(Spring + SpringMVC + MyBatis + MySQL + Redis)
 ===
      
-    
-     
-
 ### 功能介绍:<br>
 * 在每个商品的详情页暴露秒杀URL,如果秒杀未开始则显示倒计时时钟;<br>
 * 使用MD5对暴露的秒杀URL加密, 防止用户提前破解秒杀URL;<br>
@@ -20,8 +17,3 @@
 * Redis的基本操作及与Spring的整合;<br>
 * RESTful接口设计规范;<br>
 * Junit单元测试及Logback日志管理<br>
-
-
-
-
-
