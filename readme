@@ -14,6 +14,5 @@
 * Redis的基本操作及与Spring的整合;<br>
 * 在服务器端使用Redis对热点数据的缓存;<br>
 * 利用Redis的原子性操作特性对高并发的优化<br>
-* Redis的基本操作及与Spring的整合;<br>
 * RESTful接口设计规范;<br>
 * Junit单元测试及Logback日志管理<br>
